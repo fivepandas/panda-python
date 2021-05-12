@@ -1,0 +1,3 @@
+In python you can tackle with string.
+In python you can print something you want.
+In python you can manage files.
